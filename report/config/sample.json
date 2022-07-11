@@ -1,0 +1,10 @@
+{
+  "ID": 0,
+  "MONGODB": {
+    "USER": "",
+    "PASSWORD": "",
+    "HOST": "",
+    "PORT": 0,
+    "DATABASE": ""
+  }
+}
